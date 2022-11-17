@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="BoardWebFinal">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="spring-web-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/spring-web-4.2.4.RELEASE/spring-web-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.3.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-fileupload-1.3.1/commons-fileupload-1.3.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-annotations-2.7.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-annotations-2.7.0/jackson-annotations-2.7.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-4.2.4.RELEASE/spring-context-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-expression-4.2.4.RELEASE/spring-expression-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mybatis-spring-1.2.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mybatis-spring-1.2.4/mybatis-spring-1.2.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-pool-1.5.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-pool-1.5.4/commons-pool-1.5.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webmvc-4.2.4.RELEASE/spring-webmvc-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-databind-2.7.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-databind-2.7.2/jackson-databind-2.7.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.2/commons-io-2.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aspectjrt-1.6.10.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aspectjrt-1.6.10/aspectjrt-1.6.10">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.inject-1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.inject-1/javax.inject-1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jcl-over-slf4j-1.6.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jcl-over-slf4j-1.6.6/jcl-over-slf4j-1.6.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-dbcp-1.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-dbcp-1.4/commons-dbcp-1.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-1.2.15.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/log4j-1.2.15/log4j-1.2.15">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-beans-4.2.4.RELEASE/spring-beans-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-tx-4.2.4.RELEASE/spring-tx-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.6.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-api-1.6.6/slf4j-api-1.6.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aspectjweaver-1.8.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aspectjweaver-1.8.8/aspectjweaver-1.8.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aop-4.2.4.RELEASE/spring-aop-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-log4j12-1.6.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-log4j12-1.6.6/slf4j-log4j12-1.6.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-core-2.7.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-core-2.7.2/jackson-core-2.7.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jdbc-4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aopalliance-1.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aopalliance-1.0/aopalliance-1.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-core-4.2.4.RELEASE/spring-core-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="h2-2.1.210.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/h2-2.1.210/h2-2.1.210">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mybatis-3.3.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mybatis-3.3.1/mybatis-3.3.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="BoardWebFinal"/>
+        <property name="java-output-path" value="/BoardWebFinal/build/classes"/>
+    </wb-module>
+</project-modules>
